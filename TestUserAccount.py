@@ -2,8 +2,13 @@
 import UserAccount
 
 #Three things are missing from the line below - fill them in
-my_user=UserAcount(  ,  ,  )
+my_user=UserAcount(self,password,secret)
+self.password=password
+self.secret=secret
 
+def print_secret(self,password_attempd):
+    if 
+    
 #Call the print_secret method (function) - it takes one input - a guess for the password.
 
 #Use the wrong password as input here
