@@ -19,3 +19,6 @@ class student:
     
         
         
+##from student import student
+##my_student=student("may","hifa","15","160","vanilla cookies")
+##my_student.get_giraffe_gap("160")
